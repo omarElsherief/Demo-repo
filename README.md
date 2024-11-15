@@ -1,11 +1,8 @@
-Demo
+# Inventory management system
 
-some description.
+Mazen Mohamed,Omar Mohsen,Omar Safwat,Yousef Mohamed,Yehya.
 
-## subheader
+## Pack1
 
-samuu3alikoo
-
-### header 3
-
-hello.
+person class as a parent.
+subclasses --> client,admin.
